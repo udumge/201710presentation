@@ -1,4 +1,0 @@
-# Introduction
-
-+ ほげ
-+ foo
