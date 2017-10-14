@@ -1,4 +1,4 @@
-### remark-boilerplate ###
+S### remark-boilerplate ###
 build/
 .publish
 
@@ -457,3 +457,4 @@ __pycache__/
 *.xsd.cs
 
 # End of https://www.gitignore.io/api/node,webstorm,sublimetext,visualstudio,visualstudiocode,git
+.DS_Store

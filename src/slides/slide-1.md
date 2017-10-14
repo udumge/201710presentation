@@ -1,5 +1,5 @@
 class: center, middle
 
-# Vue.js使ってみた
+# Vue.jsを使ってみた
 
 ---
